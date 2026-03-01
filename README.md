@@ -1,8 +1,7 @@
-<div align="center"
-<img width="501" height="493" alt="PlayKey-logo" src="https://github.com/user-attachments/assets/2ce99911-6640-402f-b270-942bed91492c" />
 
-<h1 align="center">PlayKey</h1>
-<h3>使用 PyGame 与 Microsoft Visual C++ 开发的一款游戏<h3></h3>
+<img width="501" height="493" alt="PlayKey-logo" src="https://github.com/user-attachments/assets/2ce99911-6640-402f-b270-942bed91492c" />
+PlayKey
+使用 PyGame 与 Microsoft Visual C++ 开发的一款游戏
 [![Deep Learning Corporation](https://img.shields.io/badge/Deep%20Learning%20Corporation-官方网站-2ea44f?style=flat-square)](https://deeplearning-corporation.github.io)
 
 ## 什么是 PlayKey 游戏

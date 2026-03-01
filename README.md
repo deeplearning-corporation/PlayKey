@@ -3,7 +3,7 @@
 
 <h1 align="center">PlayKey</h1>
 <h3>使用 PyGame 与 Microsoft Visual C++ 开发的一款游戏<h3></h3>
-[![Deep Learning Corporation](https://img.shields.io/badge/Deep%20Learning%20Corporation-官方网站-2ea44f?style=flat-square)](https://deeplearning-corporation.github.io)
+![Deep Learning Corporation 官方网站](https://deeplearning-corporation.github.io)
 
 ## 什么是 PlayKey 游戏
 PlayKey 游戏是由 Deep Learning Corporation 使用 Python 与 C++ 开发的一款游戏。

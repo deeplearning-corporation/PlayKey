@@ -19,6 +19,7 @@ PlayKey 游戏是由 Deep Learning Corporation 使用 Python 与 C++ 开发的�
 
 编译所需：
 - Python
+- PyGame
 - PyInstaller
 - Microsoft Visual C++ 编译器
 
